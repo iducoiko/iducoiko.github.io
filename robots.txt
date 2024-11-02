@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iducoiko.github.io/Ejo/sitemap_index.txt
+Sitemap: https://iducoiko.github.io/YTx/sitemap_index.txt
+Sitemap: https://iducoiko.github.io/gBu/sitemap_index.txt
+Sitemap: https://iducoiko.github.io/tjw/sitemap_index.txt
